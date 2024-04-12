@@ -1,0 +1,22 @@
+start time	end time 	annotations 	layer	index
+0:00:12	0:00:15	"""Now you see that in the play"" as she is shaking her pointer finger "	body language 	Pointing
+0:00:18	0:00:20	"""I'm here to talk about God"" // when she says God, she lifts her hand above her head, as a way to reference him"	body language 	Act out 
+0:00:23	0:00:29	"""doesn't like that"" // she shakes her head no as she says that and she repeats it a few more times and does the same gesture"	body language 	Head shake
+0:00:30	0:00:35	She moves her head in specific directions as a means to convey and almost lead the conversation with her body 	body language 	Act out 
+0:00:42	0:00:47	"Whenever she talks louder, she shakes her hands more "	body language 	Gesture with volume
+0:00:52	0:00:53	"""If I'm going to"" and then tilts her head back and shakes her head"	body language 	Head shake
+0:00:54	0:00:55	"Once again when referencing God (this time ""Lord""), she raises her hand up above her head and looks up at it "	body language 	Act out 
+0:01:00	0:01:01	"""Mr. Shaw is on to him"" // she peers up at the audience with her eyes, almost mischieviously "	body language 	Gaze
+0:01:07	0:01:08	"""Now"" and then pauses with a claw hand motion "	body language 	Claw hand
+0:01:10	0:01:12	"""creating a character like"" and then claw open, claw close multiple times "	body language 	Claw hand
+0:01:13	0:01:20	"She is acting it out with her body // she is hunched, then open, then little "	body language 	Gesture in rhythm 
+0:01:27	0:01:35	"""become some type of man"" and she is making circular gestures with her hands while clenching and opening her hands "	body language 	Circular gesture
+0:01:36	0:01:39	Sways side to side as she is trying to find the words 	body language 	Swaying
+0:01:40	0:01:40	"Major jerk at the word ""behavior"" "	body language 	Gesture with word
+0:01:45	0:01:47	Finger up and pointing 	body language 	Pointing
+0:01:49	0:01:50	"""He goes into the back"" she takes her arms and through a large circular motion, puts her hands behind her "	body language 	Circular gesture
+0:01:51	0:01:53	"""He shrivels up and sits this way"" she acts this entire sequence out "	body language 	Act out 
+0:01:57	0:02:00	She is gesticulating each beat of what she is saying 	body language 	Gesture in rhythm 
+0:02:04	0:02:06	More aggresive pointing with the rhythm 	body language 	Gesture in rhythm 
+0:02:20	0:02:21	"She licks her lips and looks down, while pausing "	body language 	Lips
+0:02:28	0:02:30	"""Either spiritually, or intellectually"" // she is shaking her hand while saying that "	body language 	Gesture with word
