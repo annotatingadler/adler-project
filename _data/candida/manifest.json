@@ -27,14 +27,6 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://annotatingadler.github.io/adler-project/annotations/candida-canvas-1-rhetorical-device.json",
-            "label": {
-              "none": ["Rhetorical device"]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://annotatingadler.github.io/adler-project/annotations/candida-canvas-1-students.json",
             "label": {
               "none": ["Students"]
