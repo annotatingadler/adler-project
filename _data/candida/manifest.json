@@ -23,16 +23,6 @@
         "id": "https://annotatingadler.github.io/adler-project/candida/canvas-1/canvas",
         "type": "Canvas",
         "duration": 179.0,
-        "annotations": [
-          
-          {
-            "type": "AnnotationPage",
-            "id": "https://annotatingadler.github.io/adler-project/annotations/candida-canvas-1-emotions.json",
-            "label": {
-              "none": ["Emotions"]
-            }
-          }
-        ],
         "items": [
           {
             "id": "https://annotatingadler.github.io/adler-project/candida/canvas-1/paintings",
