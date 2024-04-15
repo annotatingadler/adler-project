@@ -1,0 +1,7 @@
+start time 0:hr:min:sec	end time 0:hr:min:sec	Annotations	Layer	Index
+0:0:11	0:0:48	Adler gives her interpretation of the character of Morell in George Bernard Shaw's Candida, sourcing his motivation not to religious enlightenment but to wanting to be a star who has "found his gimmick."	Teaching	Script analysis
+0:0:50	0:0:58	Adler personalizes Morell's character by positioning herself as the character, "If I'm going to give you the blessings of the lord it's great."	Rhetorical device	Characterization
+0:1:09	0:01:45	Adler does an act out of March Banks's character 	Rhetorical device	Characterization
+0:01:49	0:01:53	Adler describes Shaw's dramatic mode as not leaving anyone "out in the cold" and acts out the meaning of this for her students'	Rhetorical device	George Bernard Shaw
+0:02:00	0:02:10	Adler advises students to add in physical characteristics of character themselves if the play does not tell them. She authoritiatively tells them to write down the physical characteristics of each character and that Shaw teaches them that. 	Teaching	Characterization, George Bernard Shaw
+0:02:12	0:02:12	Adler asks students if she's being clear	Teaching	Clarifying Question
