@@ -15,13 +15,19 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "Mention importance of understanding middle class for social situation of the play",
+          "value": "<html>[Reading from script] \"It's really me\" now, something happens to <i>ME</i>', perspective shift</html>",
           "format": "text/plain",
           "purpose": "commenting"
         },
         {
           "type": "TextualBody",
-          "value": "Class",
+          "value": "Script Analysis",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "The Method",
           "format": "text/plain",
           "purpose": "tagging"
         }
@@ -39,7 +45,7 @@
         },
         "selector": {
           "type": "RangeSelector",
-          "t": "18.0,27.0"
+          "t": "47.0,52.0"
         }
       }
     },
@@ -54,9 +60,60 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "Another mention of middle class as \"ethical\" and \"honest\"",
+          "value": "Employs first person perspective of character to ask questions, the method and becoming the character instead of affective memory",
           "format": "text/plain",
           "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Script Analysis",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "The Method",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://annotatingadler.github.io/adler-project/selection-from-script-interpretation-class-a-doll-s-house-by-henrik-ibsen/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://annotatingadler.github.io/adler-project/selection-from-script-interpretation-class-a-doll-s-house-by-henrik-ibsen/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "77.0,92.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "selection-from-script-interpretation-class-a-doll-s-house-by-henrik-ibsen-canvas-1-theory-and-technique-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "\"And I have a lot of words but I have more than that\", and begins analysis of Nora's character, delves into familial background and lack of it and can infer the class implications of being an orphan",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Script Analysis",
+          "format": "text/plain",
+          "purpose": "tagging"
         },
         {
           "type": "TextualBody",
@@ -78,46 +135,7 @@
         },
         "selector": {
           "type": "RangeSelector",
-          "t": "68.0,80.0"
-        }
-      }
-    },
-    {
-      "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "selection-from-script-interpretation-class-a-doll-s-house-by-henrik-ibsen-canvas-1-theory-and-technique-annotation-2.json",
-      "type": "Annotation",
-      "motivation": [
-        "supplementing",
-        "commenting"
-      ],
-      "body": [
-        {
-          "type": "TextualBody",
-          "value": "\"There is no you\", you're only the character, pretty clear idea of the method coming out",
-          "format": "text/plain",
-          "purpose": "commenting"
-        },
-        {
-          "type": "TextualBody",
-          "value": "Emotional Self Regulation",
-          "format": "text/plain",
-          "purpose": "tagging"
-        }
-      ],
-      "target": {
-        "source": {
-          "id": "https://annotatingadler.github.io/adler-project/selection-from-script-interpretation-class-a-doll-s-house-by-henrik-ibsen/canvas-1/canvas",
-          "type": "Canvas",
-          "partOf": [
-            {
-              "id": "https://annotatingadler.github.io/adler-project/selection-from-script-interpretation-class-a-doll-s-house-by-henrik-ibsen/manifest.json",
-              "type": "Manifest"
-            }
-          ]
-        },
-        "selector": {
-          "type": "RangeSelector",
-          "t": "148.0,157.0"
+          "t": "131.0,168.0"
         }
       }
     },
@@ -132,19 +150,13 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "Tries to make a point about the importance of \"giving up you\" but mocks herself for a moment, good humour about these things ",
+          "value": "\"I'm beginning to break through that I have to get to the background\", can see the method at work here and Adler's emphasis on research ",
           "format": "text/plain",
           "purpose": "commenting"
         },
         {
           "type": "TextualBody",
-          "value": "Emotional self regulation",
-          "format": "text/plain",
-          "purpose": "tagging"
-        },
-        {
-          "type": "TextualBody",
-          "value": "Act out",
+          "value": "The Method",
           "format": "text/plain",
           "purpose": "tagging"
         }
@@ -162,7 +174,7 @@
         },
         "selector": {
           "type": "RangeSelector",
-          "t": "158.0,167.0"
+          "t": "177.0,185.0"
         }
       }
     },
@@ -177,13 +189,13 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "\"There is no me\" ",
+          "value": "Historical research/context applied to characterization",
           "format": "text/plain",
           "purpose": "commenting"
         },
         {
           "type": "TextualBody",
-          "value": "Emotional Self Regulation",
+          "value": "The Method",
           "format": "text/plain",
           "purpose": "tagging"
         }
@@ -201,7 +213,7 @@
         },
         "selector": {
           "type": "RangeSelector",
-          "t": "176.0,179.0"
+          "t": "420.0,447.0"
         }
       }
     },
@@ -216,13 +228,13 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "Historical context of war and possible impact it had on men in society",
+          "value": "The \"truth\" used here, applied to script",
           "format": "text/plain",
           "purpose": "commenting"
         },
         {
           "type": "TextualBody",
-          "value": "Masculinity",
+          "value": "The \"Truth\"",
           "format": "text/plain",
           "purpose": "tagging"
         }
@@ -240,7 +252,7 @@
         },
         "selector": {
           "type": "RangeSelector",
-          "t": "223.0,243.0"
+          "t": "485.0,496.0"
         }
       }
     },
@@ -255,19 +267,13 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "Historical context on Norway and Ibsen, serious and emotional again, explains impacts war had on Ibsen",
+          "value": "Looking out and addressing the classroom very directly and very still, revelatory statement about Nora",
           "format": "text/plain",
           "purpose": "commenting"
         },
         {
           "type": "TextualBody",
-          "value": "Ibsen",
-          "format": "text/plain",
-          "purpose": "tagging"
-        },
-        {
-          "type": "TextualBody",
-          "value": "Scandinavian Theater",
+          "value": "Script Analysis",
           "format": "text/plain",
           "purpose": "tagging"
         }
@@ -285,7 +291,46 @@
         },
         "selector": {
           "type": "RangeSelector",
-          "t": "251.0,263.0"
+          "t": "512.0,520.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "selection-from-script-interpretation-class-a-doll-s-house-by-henrik-ibsen-canvas-1-theory-and-technique-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Teacher voice again, very calm after drama, reveals that she calls it a \"recognition scene\", seems to have worked through/figured out the scene as she's teaching it",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Script Analysis",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://annotatingadler.github.io/adler-project/selection-from-script-interpretation-class-a-doll-s-house-by-henrik-ibsen/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://annotatingadler.github.io/adler-project/selection-from-script-interpretation-class-a-doll-s-house-by-henrik-ibsen/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "550.0,553.0"
         }
       }
     }

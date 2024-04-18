@@ -15,25 +15,19 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "Mentions extensive knowledge about Norway, obvious connection to Scandinavian theater/Ibsen, makes extended joke about Norway and how she should just teach the class about Norway, turns away from the class as she jokes",
+          "value": "Lots of pauses and she's working through the character, very emotional and she begins to look up and point left away from the audience more, we get to see her active process ",
           "format": "text/plain",
           "purpose": "commenting"
         },
         {
           "type": "TextualBody",
-          "value": "Ibsen",
+          "value": "Acting Voice",
           "format": "text/plain",
           "purpose": "tagging"
         },
         {
           "type": "TextualBody",
-          "value": "Scandinavian Theater",
-          "format": "text/plain",
-          "purpose": "tagging"
-        },
-        {
-          "type": "TextualBody",
-          "value": "Discussing Personal Experiences",
+          "value": "Dramatic Pause",
           "format": "text/plain",
           "purpose": "tagging"
         }
@@ -51,7 +45,7 @@
         },
         "selector": {
           "type": "RangeSelector",
-          "t": "187.0,200.0"
+          "t": "284.0,312.0"
         }
       }
     },
@@ -66,19 +60,25 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "Mock acting again, this time taking on a Norwegian character to make a funny point to the class",
+          "value": " \"I'm getting somewhere\" breakthrough and then reflects and reels it in, difference between her as a teacher and as an actor, subsequently see her switch between these two states",
           "format": "text/plain",
           "purpose": "commenting"
         },
         {
           "type": "TextualBody",
-          "value": "Mock Acting",
+          "value": "The Method",
           "format": "text/plain",
           "purpose": "tagging"
         },
         {
           "type": "TextualBody",
-          "value": "Scandinavian Theater",
+          "value": "Teaching Voice",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Acting Voice",
           "format": "text/plain",
           "purpose": "tagging"
         }
@@ -96,7 +96,7 @@
         },
         "selector": {
           "type": "RangeSelector",
-          "t": "201.0,209.0"
+          "t": "313.0,319.0"
         }
       }
     },
@@ -111,64 +111,19 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "Long pause, starting to get serious again after joking around, teaching voice back on",
+          "value": "Hand motions as she's reading the lines, when she shifts to teaching she reaches her hands out more and they become more still and clasped in front of her. Really notable shifts here in body language between active teaching and working through character",
           "format": "text/plain",
           "purpose": "commenting"
-        },
-        {
-          "type": "TextualBody",
-          "value": "Dramatic Pause",
-          "format": "text/plain",
-          "purpose": "tagging"
         },
         {
           "type": "TextualBody",
           "value": "Teaching Voice",
           "format": "text/plain",
           "purpose": "tagging"
-        }
-      ],
-      "target": {
-        "source": {
-          "id": "https://annotatingadler.github.io/adler-project/selection-from-script-interpretation-class-a-doll-s-house-by-henrik-ibsen/canvas-1/canvas",
-          "type": "Canvas",
-          "partOf": [
-            {
-              "id": "https://annotatingadler.github.io/adler-project/selection-from-script-interpretation-class-a-doll-s-house-by-henrik-ibsen/manifest.json",
-              "type": "Manifest"
-            }
-          ]
-        },
-        "selector": {
-          "type": "RangeSelector",
-          "t": "245.0,248.0"
-        }
-      }
-    },
-    {
-      "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "selection-from-script-interpretation-class-a-doll-s-house-by-henrik-ibsen-canvas-1-rhetorical-device-annotation-3.json",
-      "type": "Annotation",
-      "motivation": [
-        "supplementing",
-        "commenting"
-      ],
-      "body": [
-        {
-          "type": "TextualBody",
-          "value": "Breaks out of seriousness again as she realizes she has once again adopted Norwegianness (as the method would have it for her character), but nonetheless continues to explain background",
-          "format": "text/plain",
-          "purpose": "commenting"
         },
         {
           "type": "TextualBody",
-          "value": "Scandinavian Theater",
-          "format": "text/plain",
-          "purpose": "tagging"
-        },
-        {
-          "type": "TextualBody",
-          "value": "Discussing Personal Experiences",
+          "value": "Acting Voice",
           "format": "text/plain",
           "purpose": "tagging"
         }
@@ -186,7 +141,7 @@
         },
         "selector": {
           "type": "RangeSelector",
-          "t": "264.0,273.0"
+          "t": "368.0,407.0"
         }
       }
     }
