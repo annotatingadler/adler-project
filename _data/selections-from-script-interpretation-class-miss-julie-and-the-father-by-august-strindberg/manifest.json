@@ -52,7 +52,9 @@
                 "type": "Annotation",
                 "motivation": "painting",
                 "body": {
-                  "id": "https://hrc.contentdm.oclc.org/digital/collection/p15878coll78/id/17/rec/11",
+                  "id": "https://ia800302.us.archive.org/12/items/ads-0324/ADS0324.mp4",
+                    "type": "Video",
+                    "format": "video/mp4",
                     "duration": 376.0
                 },
                 "target": "https://annotatingadler.github.io/adler-project/selections-from-script-interpretation-class-miss-julie-and-the-father-by-august-strindberg/canvas-1/canvas"
