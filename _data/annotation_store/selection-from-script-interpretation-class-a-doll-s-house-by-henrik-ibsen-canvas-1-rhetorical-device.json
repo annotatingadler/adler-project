@@ -15,13 +15,25 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "Acts out part but not necessarily in active \"acting voice\", prop usage",
+          "value": "Mentions extensive knowledge about Norway, obvious connection to Scandinavian theater/Ibsen, makes extended joke about Norway and how she should just teach the class about Norway, turns away from the class as she jokes",
           "format": "text/plain",
           "purpose": "commenting"
         },
         {
           "type": "TextualBody",
-          "value": "Teaching Voice",
+          "value": "Ibsen",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Scandinavian Theater",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Discussing Personal Experiences",
           "format": "text/plain",
           "purpose": "tagging"
         }
@@ -39,7 +51,7 @@
         },
         "selector": {
           "type": "RangeSelector",
-          "t": "67.0,100.0"
+          "t": "187.0,200.0"
         }
       }
     },
@@ -54,13 +66,19 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "More dramatic when asking the character questions this time, begins to get more emotional again, not completely in acting voice but partially",
+          "value": "Mock acting again, this time taking on a Norwegian character to make a funny point to the class",
           "format": "text/plain",
           "purpose": "commenting"
         },
         {
           "type": "TextualBody",
-          "value": "Acting Voice",
+          "value": "Mock Acting",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Scandinavian Theater",
           "format": "text/plain",
           "purpose": "tagging"
         }
@@ -78,7 +96,7 @@
         },
         "selector": {
           "type": "RangeSelector",
-          "t": "118.0,152.0"
+          "t": "201.0,209.0"
         }
       }
     },
@@ -93,19 +111,19 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "Pretty clear switch into acting voice, hands almost covering face as she thinks/works through, doesn't look out at students, doesn't stay in acting voice as long, switches back as she says \"I don't know what that means\"",
+          "value": "Long pause, starting to get serious again after joking around, teaching voice back on",
           "format": "text/plain",
           "purpose": "commenting"
         },
         {
           "type": "TextualBody",
-          "value": "Script Analysis",
+          "value": "Dramatic Pause",
           "format": "text/plain",
           "purpose": "tagging"
         },
         {
           "type": "TextualBody",
-          "value": "Acting Voice",
+          "value": "Teaching Voice",
           "format": "text/plain",
           "purpose": "tagging"
         }
@@ -123,7 +141,7 @@
         },
         "selector": {
           "type": "RangeSelector",
-          "t": "204.0,221.0"
+          "t": "245.0,248.0"
         }
       }
     },
@@ -138,13 +156,19 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "Starts moving more as she is actively thinking/working through, acting voice",
+          "value": "Breaks out of seriousness again as she realizes she has once again adopted Norwegianness (as the method would have it for her character), but nonetheless continues to explain background",
           "format": "text/plain",
           "purpose": "commenting"
         },
         {
           "type": "TextualBody",
-          "value": "Acting Voice",
+          "value": "Scandinavian Theater",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Discussing Personal Experiences",
           "format": "text/plain",
           "purpose": "tagging"
         }
@@ -162,130 +186,7 @@
         },
         "selector": {
           "type": "RangeSelector",
-          "t": "223.0,231.0"
-        }
-      }
-    },
-    {
-      "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "selection-from-script-interpretation-class-a-doll-s-house-by-henrik-ibsen-canvas-1-rhetorical-device-annotation-4.json",
-      "type": "Annotation",
-      "motivation": [
-        "supplementing",
-        "commenting"
-      ],
-      "body": [
-        {
-          "type": "TextualBody",
-          "value": "Dramatic pause accompanied with mouth/hand movement",
-          "format": "text/plain",
-          "purpose": "commenting"
-        },
-        {
-          "type": "TextualBody",
-          "value": "Dramatic Pause",
-          "format": "text/plain",
-          "purpose": "tagging"
-        }
-      ],
-      "target": {
-        "source": {
-          "id": "https://annotatingadler.github.io/adler-project/selection-from-script-interpretation-class-a-doll-s-house-by-henrik-ibsen/canvas-1/canvas",
-          "type": "Canvas",
-          "partOf": [
-            {
-              "id": "https://annotatingadler.github.io/adler-project/selection-from-script-interpretation-class-a-doll-s-house-by-henrik-ibsen/manifest.json",
-              "type": "Manifest"
-            }
-          ]
-        },
-        "selector": {
-          "type": "RangeSelector",
-          "t": "231.0,235.0"
-        }
-      }
-    },
-    {
-      "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "selection-from-script-interpretation-class-a-doll-s-house-by-henrik-ibsen-canvas-1-rhetorical-device-annotation-5.json",
-      "type": "Annotation",
-      "motivation": [
-        "supplementing",
-        "commenting"
-      ],
-      "body": [
-        {
-          "type": "TextualBody",
-          "value": "Third? time she's sort of gone down this path of questioning for characters, sort of does the same thing, speeds up while talking, hands on forehead",
-          "format": "text/plain",
-          "purpose": "commenting"
-        },
-        {
-          "type": "TextualBody",
-          "value": "Acting Voice",
-          "format": "text/plain",
-          "purpose": "tagging"
-        }
-      ],
-      "target": {
-        "source": {
-          "id": "https://annotatingadler.github.io/adler-project/selection-from-script-interpretation-class-a-doll-s-house-by-henrik-ibsen/canvas-1/canvas",
-          "type": "Canvas",
-          "partOf": [
-            {
-              "id": "https://annotatingadler.github.io/adler-project/selection-from-script-interpretation-class-a-doll-s-house-by-henrik-ibsen/manifest.json",
-              "type": "Manifest"
-            }
-          ]
-        },
-        "selector": {
-          "type": "RangeSelector",
-          "t": "249.0,255.0"
-        }
-      }
-    },
-    {
-      "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "selection-from-script-interpretation-class-a-doll-s-house-by-henrik-ibsen-canvas-1-rhetorical-device-annotation-6.json",
-      "type": "Annotation",
-      "motivation": [
-        "supplementing",
-        "commenting"
-      ],
-      "body": [
-        {
-          "type": "TextualBody",
-          "value": "Revelatory, rejects text?, \"The words are absolutely useless\", ends with teaching voice",
-          "format": "text/plain",
-          "purpose": "commenting"
-        },
-        {
-          "type": "TextualBody",
-          "value": "Teaching Voice",
-          "format": "text/plain",
-          "purpose": "tagging"
-        },
-        {
-          "type": "TextualBody",
-          "value": "Script Analysis",
-          "format": "text/plain",
-          "purpose": "tagging"
-        }
-      ],
-      "target": {
-        "source": {
-          "id": "https://annotatingadler.github.io/adler-project/selection-from-script-interpretation-class-a-doll-s-house-by-henrik-ibsen/canvas-1/canvas",
-          "type": "Canvas",
-          "partOf": [
-            {
-              "id": "https://annotatingadler.github.io/adler-project/selection-from-script-interpretation-class-a-doll-s-house-by-henrik-ibsen/manifest.json",
-              "type": "Manifest"
-            }
-          ]
-        },
-        "selector": {
-          "type": "RangeSelector",
-          "t": "291.0,308.0"
+          "t": "264.0,273.0"
         }
       }
     }
