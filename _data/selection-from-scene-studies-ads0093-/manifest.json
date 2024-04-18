@@ -7,7 +7,7 @@
       {
         "id": "https://annotatingadler.github.io/adler-project/selection-from-scene-studies-ads0093-/canvas-1/canvas",
         "type": "Canvas",
-        "duration": 08,
+        "duration": 490.0,
         "items": [
           {
             "id": "https://annotatingadler.github.io/adler-project/selection-from-scene-studies-ads0093-/canvas-1/paintings",
@@ -21,7 +21,7 @@
                   "id": "https://ia800305.us.archive.org/22/items/ads-0093/ADS0093.mp4",
                     "type": "Video",
                     "format": "video/mp4",
-                    "duration": 08
+                    "duration": 490.0
                 },
                 "target": "https://annotatingadler.github.io/adler-project/selection-from-scene-studies-ads0093-/canvas-1/canvas"
               }
