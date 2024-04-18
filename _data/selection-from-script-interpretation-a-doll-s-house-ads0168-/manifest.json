@@ -1,0 +1,33 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://annotatingadler.github.io/adler-project/selection-from-script-interpretation-a-doll-s-house-ads0168-/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "Selection from Script Interpretation: A Doll's House (ADS0168)" ] },
+    "items": [
+      {
+        "id": "https://annotatingadler.github.io/adler-project/selection-from-script-interpretation-a-doll-s-house-ads0168-/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 270.0,
+        "items": [
+          {
+            "id": "https://annotatingadler.github.io/adler-project/selection-from-script-interpretation-a-doll-s-house-ads0168-/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://annotatingadler.github.io/adler-project/selection-from-script-interpretation-a-doll-s-house-ads0168-/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://ia600303.us.archive.org/20/items/ads-0168/ADS0168.mp4",
+                    "type": "Video",
+                    "format": "video/mp4",
+                    "duration": 270.0
+                },
+                "target": "https://annotatingadler.github.io/adler-project/selection-from-script-interpretation-a-doll-s-house-ads0168-/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
