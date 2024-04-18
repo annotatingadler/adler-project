@@ -1,0 +1,39 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://annotatingadler.github.io/adler-project/selections-from-scene-studies/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "Selections from Scene Studies" ] },
+    "homepage": [
+      {
+        "id": "https://www.hrc.utexas.edu",
+        "type": "Text",
+        "label": { "en": [ "Selections from Scene Studies" ] },
+        "format": "text/html"
+      }
+    ],
+    "items": [
+      {
+        "id": "https://annotatingadler.github.io/adler-project/selections-from-scene-studies/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 490.0,
+        "items": [
+          {
+            "id": "https://annotatingadler.github.io/adler-project/selections-from-scene-studies/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://annotatingadler.github.io/adler-project/selections-from-scene-studies/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://hrc.contentdm.oclc.org/digital/collection/p15878coll78/id/1/rec/10",
+                    "duration": 490.0
+                },
+                "target": "https://annotatingadler.github.io/adler-project/selections-from-scene-studies/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
