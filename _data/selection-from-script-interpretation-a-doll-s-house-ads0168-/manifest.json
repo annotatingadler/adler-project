@@ -8,6 +8,48 @@
         "id": "https://annotatingadler.github.io/adler-project/selection-from-script-interpretation-a-doll-s-house-ads0168-/canvas-1/canvas",
         "type": "Canvas",
         "duration": 270.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://annotatingadler.github.io/adler-project/annotations/selection-from-script-interpretation-a-doll-s-house-ads0168--canvas-1-theory-and-technique.json",
+            "label": {
+              "none": ["Theory and Technique"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://annotatingadler.github.io/adler-project/annotations/selection-from-script-interpretation-a-doll-s-house-ads0168--canvas-1-rhetorical-device.json",
+            "label": {
+              "none": ["Rhetorical Device"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://annotatingadler.github.io/adler-project/annotations/selection-from-script-interpretation-a-doll-s-house-ads0168--canvas-1-body-language.json",
+            "label": {
+              "none": ["Body Language"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://annotatingadler.github.io/adler-project/annotations/selection-from-script-interpretation-a-doll-s-house-ads0168--canvas-1-important-figures.json",
+            "label": {
+              "none": ["Important figures"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://annotatingadler.github.io/adler-project/annotations/selection-from-script-interpretation-a-doll-s-house-ads0168--canvas-1-teaching.json",
+            "label": {
+              "none": ["Teaching"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://annotatingadler.github.io/adler-project/selection-from-script-interpretation-a-doll-s-house-ads0168-/canvas-1/paintings",
