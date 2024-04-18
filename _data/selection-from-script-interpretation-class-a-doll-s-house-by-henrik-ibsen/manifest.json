@@ -20,14 +20,6 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://annotatingadler.github.io/adler-project/annotations/selection-from-script-interpretation-class-a-doll-s-house-by-henrik-ibsen-canvas-1-body-language.json",
-            "label": {
-              "none": ["Body Language"]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://annotatingadler.github.io/adler-project/annotations/selection-from-script-interpretation-class-a-doll-s-house-by-henrik-ibsen-canvas-1-important-person.json",
             "label": {
               "none": ["Important Person"]
