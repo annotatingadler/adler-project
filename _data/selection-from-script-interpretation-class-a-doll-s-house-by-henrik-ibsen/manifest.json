@@ -16,6 +16,48 @@
         "id": "https://annotatingadler.github.io/adler-project/selection-from-script-interpretation-class-a-doll-s-house-by-henrik-ibsen/canvas-1/canvas",
         "type": "Canvas",
         "duration": 317.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://annotatingadler.github.io/adler-project/annotations/selection-from-script-interpretation-class-a-doll-s-house-by-henrik-ibsen-canvas-1-student-interaction.json",
+            "label": {
+              "none": ["Student Interaction"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://annotatingadler.github.io/adler-project/annotations/selection-from-script-interpretation-class-a-doll-s-house-by-henrik-ibsen-canvas-1-body-language.json",
+            "label": {
+              "none": ["Body Language"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://annotatingadler.github.io/adler-project/annotations/selection-from-script-interpretation-class-a-doll-s-house-by-henrik-ibsen-canvas-1-important-person.json",
+            "label": {
+              "none": ["Important Person"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://annotatingadler.github.io/adler-project/annotations/selection-from-script-interpretation-class-a-doll-s-house-by-henrik-ibsen-canvas-1-rhetorical-device.json",
+            "label": {
+              "none": ["Rhetorical Device"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://annotatingadler.github.io/adler-project/annotations/selection-from-script-interpretation-class-a-doll-s-house-by-henrik-ibsen-canvas-1-theory-and-technique.json",
+            "label": {
+              "none": ["Theory and Technique"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://annotatingadler.github.io/adler-project/selection-from-script-interpretation-class-a-doll-s-house-by-henrik-ibsen/canvas-1/paintings",
