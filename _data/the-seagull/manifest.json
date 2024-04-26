@@ -2,12 +2,12 @@
     "@context": "http://iiif.io/api/presentation/3/context.json",
     "id": "https://annotatingadler.github.io/adler-project/the-seagull/manifest.json",
     "type": "Manifest",
-    "label": { "en": [ "The Seagull" ] },
+    "label": { "en": [ "Selection from Script Interpretation Class: The Seagull by Anton Chekhov (ADS0565)" ] },
     "homepage": [
       {
         "id": "https://hrc.contentdm.oclc.org/digital/collection/p15878coll78/id/9/rec/8",
         "type": "Text",
-        "label": { "en": [ "The Seagull" ] },
+        "label": { "en": [ "Selection from Script Interpretation Class: The Seagull by Anton Chekhov (ADS0565)" ] },
         "format": "text/html"
       }
     ],
