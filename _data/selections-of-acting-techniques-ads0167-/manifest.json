@@ -1,0 +1,41 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://annotatingadler.github.io/adler-project/selections-of-acting-techniques-ads0167-/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "Selections of Acting Techniques (ADS0167)" ] },
+    "homepage": [
+      {
+        "id": "archive.org",
+        "type": "Text",
+        "label": { "en": [ "Selections of Acting Techniques (ADS0167)" ] },
+        "format": "text/html"
+      }
+    ],
+    "items": [
+      {
+        "id": "https://annotatingadler.github.io/adler-project/selections-of-acting-techniques-ads0167-/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 1337.0,
+        "items": [
+          {
+            "id": "https://annotatingadler.github.io/adler-project/selections-of-acting-techniques-ads0167-/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://annotatingadler.github.io/adler-project/selections-of-acting-techniques-ads0167-/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://ia800308.us.archive.org/26/items/ads-0167_202404/ADS0167.mp4",
+                    "type": "Video",
+                    "format": "video/mp4",
+                    "duration": 1337.0
+                },
+                "target": "https://annotatingadler.github.io/adler-project/selections-of-acting-techniques-ads0167-/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
