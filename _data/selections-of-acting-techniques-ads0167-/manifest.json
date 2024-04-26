@@ -41,14 +41,6 @@
               "none": ["Joke"]
             }
           }
-          ,
-          {
-            "type": "AnnotationPage",
-            "id": "https://annotatingadler.github.io/adler-project/annotations/selections-of-acting-techniques-ads0167--canvas-1-body-language.json",
-            "label": {
-              "none": ["Body Language"]
-            }
-          }
         ],
         "items": [
           {
