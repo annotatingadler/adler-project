@@ -25,14 +25,6 @@
               "none": ["Environment"]
             }
           }
-          ,
-          {
-            "type": "AnnotationPage",
-            "id": "https://annotatingadler.github.io/adler-project/annotations/selections-of-acting-techniques-ads0167--canvas-1-recording.json",
-            "label": {
-              "none": ["Recording"]
-            }
-          }
         ],
         "items": [
           {
