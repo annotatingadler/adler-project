@@ -2,12 +2,12 @@
     "@context": "http://iiif.io/api/presentation/3/context.json",
     "id": "https://annotatingadler.github.io/adler-project/candida/manifest.json",
     "type": "Manifest",
-    "label": { "en": [ "Candida" ] },
+    "label": { "en": [ "Selection from Script Interpretation Class: Candida by George Bernard Shaw (ADS0504)" ] },
     "homepage": [
       {
         "id": "https://hrc.contentdm.oclc.org/digital/collection/p15878coll78/search",
         "type": "Text",
-        "label": { "en": [ "Candida" ] },
+        "label": { "en": [ "Selection from Script Interpretation Class: Candida by George Bernard Shaw (ADS0504)" ] },
         "format": "text/html"
       }
     ],
