@@ -1,7 +1,6 @@
 ---
 layout: manifest
-title: 'Selection from Script Interpretation Class: Candida by George Bernard Shaw
-  (ADS0504)'
+title: Candida
 manifest_name: candida
 
 ---
