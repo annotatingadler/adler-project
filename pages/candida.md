@@ -1,6 +1,6 @@
 ---
 layout: item
-title: Script Interpretation Class: Candida by George Bernard Shaw ADS0504
+title: Candida
 manifest_name: candida
 permalink: candida
 external_manifest_url: 
