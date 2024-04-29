@@ -1,6 +1,6 @@
 ---
 layout: item
-title: Selections from Scene Studies
+title: 'Selections from Scene Studies (ADS0093)'
 manifest_name: selections-from-scene-studies
 permalink: selections-from-scene-studies
 external_manifest_url: 
