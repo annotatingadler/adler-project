@@ -1,6 +1,6 @@
 ---
 layout: item
-title: Candida
+title: Candida -- Testing
 manifest_name: candida
 permalink: candida
 external_manifest_url: 
