@@ -4,3 +4,5 @@
 
 layout: home
 ---
+# Annotating Adler's Acting Studio: Identity, Embodiment, and Masculinity in the Stella Adler Collection 
+<p align="center">
