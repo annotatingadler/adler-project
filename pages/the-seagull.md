@@ -1,6 +1,6 @@
 ---
 layout: item
-title: The Seagull
+title: 'Selection from Script Interpretation: The Seagull by Anton Chekhov (ADS0565)'
 manifest_name: the-seagull
 permalink: the-seagull
 external_manifest_url: 
