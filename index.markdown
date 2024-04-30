@@ -4,5 +4,5 @@
 
 layout: home
 ---
-<p align="center"># Annotating Adler's Acting Studio: Identity and Embodiment in the Stella Adler Collection 
-
+# Annotating Adler's Acting Studio: Identity and Embodiment in the Stella Adler Collection 
+<p align="center">
