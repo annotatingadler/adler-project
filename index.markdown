@@ -6,3 +6,7 @@ layout: home
 ---
 # Annotating Adler's Acting Studio: Identity and Embodiment in the Stella Adler Collection 
 <p align="center">
+  
+### Principal Investigator and Editor: Zoe Bursztajn-Illingworth
+### Research Coordinator: Joshua Sklar
+### Research Associates: Dahee Lee and Bella Siu 
