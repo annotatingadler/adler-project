@@ -11,3 +11,14 @@ layout: home
 **Research Coordinator: Joshua Sklar**
 
 **Research Associates: Dahee Lee and Bella Siu** 
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+    <img src="https://github.com/annotatingadler/adler-project/raw/gh-pages/Adler%20Cover%20Image.png" alt="Adler Cover Image">
+</body>
+</html>
