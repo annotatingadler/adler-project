@@ -12,7 +12,7 @@ layout: home
 
 **Research Associates: Dahee Lee and Bella Siu** 
 
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
