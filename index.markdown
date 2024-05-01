@@ -19,6 +19,6 @@ layout: home
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-    <img src="https://github.com/annotatingadler/adler-project/raw/gh-pages/Adler%20Cover%20Image.png" alt="Adler Cover Image">
+    <img src="https://github.com/annotatingadler/adler-project/raw/gh-pages/Adler%20Cover%20Image.png" alt="Adler Cover Image "align="right">
 </body>
 </html>
