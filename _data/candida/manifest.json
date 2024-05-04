@@ -51,6 +51,14 @@
           ,
           {
             "type": "AnnotationPage",
+            "id": "https://annotatingadler.github.io/adler-project/annotations/candida-canvas-1-theory-and-technique.json",
+            "label": {
+              "none": ["Theory and Technique"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
             "id": "https://annotatingadler.github.io/adler-project/annotations/candida-canvas-1-body-language-.json",
             "label": {
               "none": ["Body language "]
