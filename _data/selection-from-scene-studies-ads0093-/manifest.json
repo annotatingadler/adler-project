@@ -57,14 +57,6 @@
               "none": ["Teaching"]
             }
           }
-          ,
-          {
-            "type": "AnnotationPage",
-            "id": "https://annotatingadler.github.io/adler-project/annotations/selection-from-scene-studies-ads0093--canvas-1-recording.json",
-            "label": {
-              "none": ["Recording"]
-            }
-          }
         ],
         "items": [
           {
