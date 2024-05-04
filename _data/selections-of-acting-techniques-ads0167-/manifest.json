@@ -16,16 +16,6 @@
         "id": "https://annotatingadler.github.io/adler-project/selections-of-acting-techniques-ads0167-/canvas-1/canvas",
         "type": "Canvas",
         "duration": 1337.0,
-        "annotations": [
-          
-          {
-            "type": "AnnotationPage",
-            "id": "https://annotatingadler.github.io/adler-project/annotations/selections-of-acting-techniques-ads0167--canvas-1-students.json",
-            "label": {
-              "none": ["Students"]
-            }
-          }
-        ],
         "items": [
           {
             "id": "https://annotatingadler.github.io/adler-project/selections-of-acting-techniques-ads0167-/canvas-1/paintings",
