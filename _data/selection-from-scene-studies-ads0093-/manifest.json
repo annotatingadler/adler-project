@@ -12,14 +12,6 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://annotatingadler.github.io/adler-project/annotations/selection-from-scene-studies-ads0093--canvas-1-rhetorical-device.json",
-            "label": {
-              "none": ["Rhetorical device"]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://annotatingadler.github.io/adler-project/annotations/selection-from-scene-studies-ads0093--canvas-1-theory-and-technique.json",
             "label": {
               "none": ["Theory and Technique"]
