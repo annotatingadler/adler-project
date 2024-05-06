@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The manifestation of an identity (Dahee) 
+title: The manifestation of an identity 
 permalink: the-manifestation-of-an-identity-dahee-
 ---
 <!-- Add an essay or interpretive material below this line,
