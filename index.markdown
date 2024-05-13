@@ -4,7 +4,7 @@
 
 layout: home
 ---
-# Annotating Adler's Acting Studio: Identity and Embodiment in the Stella Adler Collection 
+# Annotating Adler: Identity and Embodiment in the Stella Adler Collection 
 
 **Principal Investigator and Editor: Zoe Bursztajn-Illingworth**
 
