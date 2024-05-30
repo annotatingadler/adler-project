@@ -1,11 +1,13 @@
 ---
 layout: default
-title: 'Adler and De Niro: The Masculine Method'
+title: 'Adler and DeNiro: The Masculine Method'
 permalink: adler-and-de-niro-the-masculine-method
 ---
 <!-- Add an essay or interpretive material below this line,
 using HTML or markdown.  Do not modify this file above this line -->
-Author: Bella Siu <center>**Adler and De Niro: The Masculine Method**<center> 
+Author: Bella Siu 
+
+# Adler and DeNiro: The Masculine Method 
 
 <!DOCTYPE html>
 <html lang="en">
@@ -14,7 +16,6 @@ Author: Bella Siu <center>**Adler and De Niro: The Masculine Method**<center>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-    <h1>Adler Project Screenshot</h1>
     <img src="https://github.com/annotatingadler/adler-project/blob/gh-pages/Screen%20Shot%202024-05-08%20at%2012.14.02%20PM.png?raw=true" alt="Screenshot of Adler Project">
 </body>
 </html>
