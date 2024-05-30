@@ -5,7 +5,19 @@ permalink: adler-and-de-niro-the-masculine-method
 ---
 <!-- Add an essay or interpretive material below this line,
 using HTML or markdown.  Do not modify this file above this line -->
-Author: Bella Siu <center>Adler and De Niro: The Masculine Method<center> 
+Author: Bella Siu <center>**Adler and De Niro: The Masculine Method**<center> 
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+    <h1>Adler Project Screenshot</h1>
+    <img src="https://github.com/annotatingadler/adler-project/blob/gh-pages/Screen%20Shot%202024-05-08%20at%2012.14.02%20PM.png?raw=true" alt="Screenshot of Adler Project">
+</body>
+</html>
 
 In the archival footage of Adler’s teachings, she focuses on ideas of class background, “size,” gender, and masculinity in order to develop her iteration of method acting. Adler’s version of method acting typically consists of extensive research so that the actor can better “become” the character. As Adler states in one of the archival videos, “There is no ‘you’ when you’re an actor, you’re only the character.” Through annotating these videos, these ideas became clear as they recurred over a period of years throughout analyses of various scripts and can be connected to a plethora of her students and their work. One of the most notable students of hers being Robert De Niro, who studied full-time with Adler from about the time he was 18 until he was 21. Looking at Adler’s archival footage in conjunction with materials from the Robert De Niro collection at the Harry Ransom Center, the long lasting impact of Adler and her teaching can be observed in the ways she has shaped masculinity in American cinema as well as method in general. 
 
