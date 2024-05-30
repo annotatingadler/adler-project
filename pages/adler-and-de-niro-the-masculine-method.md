@@ -9,7 +9,6 @@ Author: Bella Siu
 
 # Adler and DeNiro: The Masculine Method 
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
