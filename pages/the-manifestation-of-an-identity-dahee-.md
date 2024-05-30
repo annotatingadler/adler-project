@@ -5,7 +5,19 @@ permalink: the-manifestation-of-an-identity-dahee-
 ---
 <!-- Add an essay or interpretive material below this line,
 using HTML or markdown.  Do not modify this file above this line -->
-Author: Dahee Lee <center>The Manifestation of an Identity<center>
+Author: Dahee Lee 
+
+# The Manifestation of an Identity 
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+    <img src="https://github.com/annotatingadler/adler-project/blob/gh-pages/Screen%20Shot%202024-05-08%20at%2012.12.35%20PM.png?raw=true" alt="Screenshot of Adler Project" width="500">
+</body>
+</html>
 
 Stella Adler is the embodiment of the teachings themselves– the booklet of instructions that continues to impact the next generation of actors. The videos preserve her and continue her legacy in a tangible way. Her work often gets grouped in with Stanislavski, her other male counterpart. While both of their teachings were extensions of the principle of personal experiences, Adler focused on creating a character through observation rather than emotional recall on the actor’s part. By understanding her background and who she is, we are able to originate her emphasis on script analysis and class, contextualizing her work to a greater degree. 
 
