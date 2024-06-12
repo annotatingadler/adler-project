@@ -21,13 +21,7 @@
         },
         {
           "type": "TextualBody",
-          "value": "Script Analysis",
-          "format": "text/plain",
-          "purpose": "tagging"
-        },
-        {
-          "type": "TextualBody",
-          "value": "Pointing",
+          "value": "Script Analysis, Pointing",
           "format": "text/plain",
           "purpose": "tagging"
         }
@@ -144,13 +138,7 @@
         },
         {
           "type": "TextualBody",
-          "value": "Pointing",
-          "format": "text/plain",
-          "purpose": "tagging"
-        },
-        {
-          "type": "TextualBody",
-          "value": "Reach Out",
+          "value": "Pointing, Reach Out",
           "format": "text/plain",
           "purpose": "tagging"
         }
@@ -267,7 +255,7 @@
         },
         {
           "type": "TextualBody",
-          "value": "Dramatic pause",
+          "value": "Dramatic Pause",
           "format": "text/plain",
           "purpose": "tagging"
         }

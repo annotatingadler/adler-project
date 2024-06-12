@@ -15,19 +15,13 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "<html>[Reading from script] \"It's really me\" now, something happens to <i>ME</i>', perspective shift</html>",
+          "value": "[Reading from script] \"It's really me\" now, something happens to ME', perspective shift",
           "format": "text/plain",
           "purpose": "commenting"
         },
         {
           "type": "TextualBody",
-          "value": "Script Analysis",
-          "format": "text/plain",
-          "purpose": "tagging"
-        },
-        {
-          "type": "TextualBody",
-          "value": "The Method",
+          "value": "Script Analysis, The Method",
           "format": "text/plain",
           "purpose": "tagging"
         }
@@ -66,13 +60,7 @@
         },
         {
           "type": "TextualBody",
-          "value": "Script Analysis",
-          "format": "text/plain",
-          "purpose": "tagging"
-        },
-        {
-          "type": "TextualBody",
-          "value": "The Method",
+          "value": "Script Analysis, The Method",
           "format": "text/plain",
           "purpose": "tagging"
         }
@@ -111,13 +99,7 @@
         },
         {
           "type": "TextualBody",
-          "value": "Script Analysis",
-          "format": "text/plain",
-          "purpose": "tagging"
-        },
-        {
-          "type": "TextualBody",
-          "value": "Class",
+          "value": "Script Analysis, Class",
           "format": "text/plain",
           "purpose": "tagging"
         }

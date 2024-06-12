@@ -21,13 +21,7 @@
         },
         {
           "type": "TextualBody",
-          "value": "Acting Voice",
-          "format": "text/plain",
-          "purpose": "tagging"
-        },
-        {
-          "type": "TextualBody",
-          "value": "Dramatic Pause",
+          "value": "Acting Voice, Dramatic Pause",
           "format": "text/plain",
           "purpose": "tagging"
         }
@@ -66,19 +60,7 @@
         },
         {
           "type": "TextualBody",
-          "value": "The Method",
-          "format": "text/plain",
-          "purpose": "tagging"
-        },
-        {
-          "type": "TextualBody",
-          "value": "Teaching Voice",
-          "format": "text/plain",
-          "purpose": "tagging"
-        },
-        {
-          "type": "TextualBody",
-          "value": "Acting Voice",
+          "value": "The Method, Teaching Voice, Acting Voice",
           "format": "text/plain",
           "purpose": "tagging"
         }
@@ -117,13 +99,7 @@
         },
         {
           "type": "TextualBody",
-          "value": "Teaching Voice",
-          "format": "text/plain",
-          "purpose": "tagging"
-        },
-        {
-          "type": "TextualBody",
-          "value": "Acting Voice",
+          "value": "Teaching Voice, Acting Voice",
           "format": "text/plain",
           "purpose": "tagging"
         }
